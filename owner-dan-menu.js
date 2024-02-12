@@ -5,7 +5,7 @@ global.namaowner = "𝑮𝑵𝒁"
 global.footer_text = "© 𝑮𝑵𝒁" + namabot
 global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
-global.owner = ['6283820352529','6283820352529']
+global.owner = ['6283110933360','6283110933360']
 global.sessionName = 'session'
 global.prefa = ['-_-']
 global.caption_pay = `Qris All Pay Bisa Pm Aja Ke Owner
@@ -65,6 +65,6 @@ module.exports.helpMenu = (pushname) =>{
 \`\`\`
 
 🗿 YANG MAU SEWA JUGA SILAHKAN 
-CHAT NOMOR INI 083820352529
+CHAT NOMOR INI 083110933360
 `
 }
